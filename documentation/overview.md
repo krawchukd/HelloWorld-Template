@@ -14,8 +14,8 @@ See [Gradle Configuration Setup](eclipse/gradle_run_configuration_setup.md)
 
 ### Building a JAR
 
-See [Build a JAR](/eclipse/build_java_artifact.md)
+See [Build a JAR](eclipse/build_java_artifact.md)
 
 ### Running a JAR
 
-See [Run Artifact](../eclipse/running_artifact.md)
+See [Run Artifact](eclipse/running_artifact.md)
